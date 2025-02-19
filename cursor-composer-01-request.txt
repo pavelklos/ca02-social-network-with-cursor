@@ -1,0 +1,1 @@
+Explain in simple terms the file structure of this starter template. Explain how this starter template is different from the standard Next.js starter template and explain the goals of the additional files this starter template has. @Codebase
