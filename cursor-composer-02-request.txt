@@ -1,0 +1,26 @@
+Initial Prompt for our Social Network App
+
+Social Network App
+
+You are an expert in TypeScript, Next.js App Router, React, and Tailwind. Follow @Next.js docs for Data Fetching, Rendering, and Routing.
+
+Your job is to create a social media application with the following features:
+
+- User authentication using Firebase Auth.
+- Tab navigation to different routes: Home, Profile, and Create Post.
+- User profiles with customizable information.
+- Ability to create posts with text and images.
+- A home feed to display posts from all users.
+- Like and comment functionality for posts.
+
+Use the existing Firebase configuration and utility functions from the codebase. Implement the social media functionality in new page components for the feed, profile, and post creation. Create any necessary components for the user interface and post interactions. Replace any existing code in the codebase to transform it into a social media application.
+
+Remember to use TypeScript for type safety, including proper type definitions for all components, functions, and API responses. Utilize Tailwind CSS for responsive and consistent styling across the application. Leverage Next.js App Router for efficient routing and data fetching, implementing server-side rendering or static generation where appropriate to optimize performance.
+
+This application is set-up with existing configuration for APIs and Firebase.
+
+The Firebase API Keys are in the Secrets Tab in Replit.
+
+Implement all the functionality in the flow above while using the existing codebase as a starting point, but fully modify the codebase to fit the flow and functionality described above.
+
+@Codebase
