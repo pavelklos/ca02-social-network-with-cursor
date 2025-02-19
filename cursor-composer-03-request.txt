@@ -1,0 +1,5 @@
+Continue with:
+- Post creation functionality
+- Profile page implementation
+- Post and comment components
+- Firebase utility functions for posts and users
